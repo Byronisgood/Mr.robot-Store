@@ -2,10 +2,7 @@
 
 #member list
 
-1.Byron Alexis R. Reyes
-
-2.Tristan Aumar
-
+1. Byron Alexis R. Reyes
+2. Tristan Aumar
 3. PAtrick padilla
-4. 
-5. Ken lopez justin
+4. Ken lopez justin
