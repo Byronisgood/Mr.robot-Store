@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --numbers: "Chakra Petch";
+  --font-chivo: Chivo;
+
+  /* font sizes */
+  --numbers-size: 24px;
+  --sub-info-size: 20px;
+  --font-size-13xl: 32px;
+  --mrrobot-size: 27px;
+  --font-size-mini: 15px;
+  --font-size-sm: 14px;
+  --font-size-xs: 12px;
+  --font-size-smi: 13px;
+  --text-size: 64px;
+
+  /* Colors */
+  --color-gray-100: #0e0d0d;
+  --color-white: #fff;
+  --color-lightgreen: #7bd85a;
+  --color-black: #000;
+  --color-gainsboro: #d9d9d9;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+  --gap-7xs: 6px;
+
+  /* Border radiuses */
+  --br-10xs: 3px;
+}
